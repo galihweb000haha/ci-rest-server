@@ -1,0 +1,12 @@
+{
+    "name": "sisfo360/restapi",
+    "require": {
+        "guzzlehttp/guzzle": "6"
+    },
+    "authors": [
+        {
+            "name": "galih fikran",
+            "email": "galih11120@gmail.com"
+        }
+    ]
+}
